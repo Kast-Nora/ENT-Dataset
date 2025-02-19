@@ -6,6 +6,6 @@ The full dataset has been open sourced in the /data.
 
 We provide 200 samples of the dataset in examples.json for a quick overview.
 
-This is the corresponding anonymous open source content for this paper of DASFAA 2025:
+This is the corresponding open source content for this paper of DASFAA 2025 (oral):
 
 <big>**From Memorization to Discovery: A Novel Benchmark for Relational Triple Extraction**</big>
